@@ -1,28 +1,16 @@
-# This is a large heading
+# David Peter
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Capital Federal, Buenos Aires, Argentina
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Favourite books:
+- *Flow* by Mihaly Csikszentmihalyi
+- *Rich Dad Poor Dad* by Robert Kiyosaki
+- *The 7 habits of highly effective people* by Stephen Covey
 
-Here is `some code` in the middle of a sentence.
+### Contact
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is on [Linkedin](www.linkedin.com/in/davidpeter84)
